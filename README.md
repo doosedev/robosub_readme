@@ -27,6 +27,8 @@ If you'd instead like to clone all repositories, a simple batch
 script can be found at `./scripts/clone_all.bat` and will clone
 all repositories to the same folder level as this one.
 
+**Be sure to run this script from within `./scripts`!**
+
 ## Installing Dependencies
 
 Each repository may require different dependencies to work
