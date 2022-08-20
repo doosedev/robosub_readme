@@ -15,12 +15,12 @@ repositories. If you only need one or a handful of repositories
 to work with your teams, only clone the few you do.
 
 ```
-git clone https://github.com/doosedev/frame22-23
-git clone https://github.com/doosedev/actuators22-23  
-git clone https://github.com/doosedev/power22-23  
-git clone https://github.com/doosedev/controls22-23  
-git clone https://github.com/doosedev/missionplanning22-23  
-git clone https://github.com/doosedev/computervision22-23
+git clone git@github.com:doosedev/frame22-23.git
+git clone git@github.com:doosedev/actuators22-23.git
+git clone git@github.com:doosedev/power22-23.git
+git clone git@github.com:doosedev/controls22-23.git
+git clone git@github.com:doosedev/missionplanning22-23.git
+git clone git@github.com:doosedev/computervision22-23.git
 ```
 
 If you'd instead like to clone all repositories, a simple batch
